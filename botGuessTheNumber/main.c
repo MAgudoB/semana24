@@ -16,6 +16,7 @@ int OK = 2;
 int games=0;
 int gamesNumber;
 int success = 0;
+char nameExecution[100];
 FILE *fptr;
 
 int insertedData(){
@@ -28,8 +29,18 @@ void saveToDb(){
 	
 	connection = sqlite3_open("results.db", &database);
 	char *msgError = 0;
-	connection = sqlite3_exec(database,"create table if not exists Success (name nvarchar(50), number int)",insertedData,0,&msgError);
-	connection = sqlite3_exec(database,"Insert into success VALUES ('prueba','')",insertedData,0,&msgError);
+	char insertSentence [150];
+	char snum[5];
+	sprintf(snum, "%i", success);
+	strcat (insertSentence,"insert into success VALUES ('");
+	strcat (insertSentence, nameExecution);
+	strcat (insertSentence,"',");
+	strcat (insertSentence,snum);
+	strcat (insertSentence,")");
+	connection = sqlite3_exec(database, "create table if not exists Success (name nvarchar(50), number int)",insertedData,0,&msgError);
+
+	connection = sqlite3_exec(database, insertSentence,insertedData,0,&msgError);	
+	
 	if(connection != SQLITE_OK){
 		printf(msgError);
 		sqlite3_free(msgError);
@@ -67,9 +78,6 @@ void resetGame(FILE *fptr) {
 	games++;
 	counter = 0;
     numberToGuess = rand() % 1000 + 1;
-    //FILE *serie;
-    //serie = fopen("serie4.txt", "a");
-    //fprintf(serie,"Numero %i.\n", numberToGuess);
     rangeA = 1;
 	rangeB = 1000;
 	if (games <= gamesNumber) {
@@ -82,6 +90,10 @@ void resetGame(FILE *fptr) {
 
 int main(void) {
 	fptr = fopen("guessTheNumberContest.txt", "a");
+	
+	//Ask the name
+	printf("Escribe el nombre de la ejecucion \n");
+	scanf("%s", nameExecution);
 	printf("Master: Hola amo humano, dime el numero de veces que quieres que tus bots esclavos jueguen.\n");
 	fprintf(fptr,"Master: Hola amo humano, dime el numero de veces que quieres que tus bots esclavos jueguen.\n");  
 	scanf("%i", &gamesNumber);
