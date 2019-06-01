@@ -14,4 +14,6 @@ target.path = $$[QT_INSTALL_EXAMPLES]/charts/qmlchart
 INSTALLS += target
 
 HEADERS += \
+    potato.h \
+    queryrow.h \
     sqlite/sqlite3.h
