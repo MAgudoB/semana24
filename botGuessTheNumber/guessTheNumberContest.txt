@@ -1780,3 +1780,1197 @@ Bot: Dejame pensar...
 Bot: Creo que es el 454.
 Master: Lo has adiviniado en 9 intentos, enhorabuena! 
 Bot: Soy un genio.
+Master: Hola amo humano, dime el numero de veces que quieres que tus bots esclavos jueguen.
+Master: Jugaremos 10 veces como su todopoderosa mente desea.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 1.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 812.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 781.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 765.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 773.
+Master: Lo has adiviniado en 6 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 2.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 187.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 156.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 140.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 132.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 128.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 126.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 127.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 3.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 375.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 312.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 281.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 265.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 257.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 253.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 255.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 256.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 4.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 562.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 531.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 515.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 507.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 511.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 509.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 508.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 5.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 687.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 656.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 671.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 663.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 659.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 661.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 660.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 6.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 375.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 312.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 343.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 327.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 335.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 339.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 337.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 336.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 7.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 687.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 656.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 640.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 648.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 652.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 654.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 8.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 375.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 437.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 468.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 484.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 492.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 496.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 494.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 9.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 968.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 952.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 944.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 948.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 946.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 947.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 10.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 968.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 952.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 944.
+Master: Lo has adiviniado en 7 intentos, enhorabuena! 
+Bot: Soy un genio.
+Master: Hola amo humano, dime el numero de veces que quieres que tus bots esclavos jueguen.
+Master: Jugaremos 10 veces como su todopoderosa mente desea.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 1.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 906.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 890.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 882.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 878.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 876.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 877.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 2.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 687.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 656.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 640.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 632.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 628.
+Master: Lo has adiviniado en 8 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 3.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 63.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 94.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 78.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 86.
+Master: Lo has adiviniado en 7 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 4.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 812.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 843.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 859.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 867.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 871.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 869.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 870.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 5.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 63.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 32.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 47.
+Master: Lo has adiviniado en 6 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 6.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 906.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 921.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 913.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 917.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 919.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 920.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 7.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 968.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 952.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 944.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 948.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 950.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 949.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 8.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: Lo has adiviniado en 3 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 9.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 63.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 32.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 16.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 24.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 28.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 30.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 10.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 812.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 843.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 827.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 819.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 815.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 813.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 814.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+Master: Hola amo humano, dime el numero de veces que quieres que tus bots esclavos jueguen.
+Master: Jugaremos 10 veces como su todopoderosa mente desea.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 1.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 63.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 94.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 78.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 86.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 90.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 88.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 89.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 2.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 562.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 593.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 577.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 585.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 589.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 591.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 3.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 562.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 531.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 546.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 554.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 558.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 556.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 557.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 4.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 687.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 718.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 702.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 694.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 698.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 696.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 5.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 906.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 890.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 898.
+Master: Lo has adiviniado en 7 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 6.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 187.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 156.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 171.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 179.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 175.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 177.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 176.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 7.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 812.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 781.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 796.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 788.
+Master: Lo has adiviniado en 7 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 8.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 375.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 437.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 468.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 452.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 444.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 448.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 450.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 9.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 187.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 218.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 202.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 210.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 214.
+Master: Lo has adiviniado en 8 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 10.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 687.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 656.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 640.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 648.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 644.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 642.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 641.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+Master: Hola amo humano, dime el numero de veces que quieres que tus bots esclavos jueguen.
+Master: Jugaremos 10 veces como su todopoderosa mente desea.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 1.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 125.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 187.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 156.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 171.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 179.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 175.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 173.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 174.
+Master: Lo has adiviniado en 9 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 2.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 906.
+Master: Lo has adiviniado en 5 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 3.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 375.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 312.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 281.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 265.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 273.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 277.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 275.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 274.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 4.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: Lo has adiviniado en 2 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 5.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 906.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 921.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 929.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 933.
+Master: Lo has adiviniado en 8 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 6.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 937.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 968.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 952.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 960.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 964.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 966.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 967.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 7.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 250.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 375.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 437.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 406.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 421.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 413.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 409.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 407.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 408.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 8.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 687.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 656.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 640.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 648.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 644.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 646.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 645.
+Master: Lo has adiviniado en 10 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 9.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 625.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 562.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 531.
+Master: Lo has adiviniado en 5 intentos, enhorabuena! 
+Bot: Soy un genio.
+
+
+Master: Vamos a jugar a "Adivina el numero". Es tu partida numero 10.
+Master: Tienes que adivinar un numero del 1 al 1000.
+Bot: Creo que es el 500.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 750.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 875.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 812.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 843.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 859.
+Master: El numero es bajo. Prueba otra vez.
+Bot: Dejame pensar...
+Bot: Creo que es el 867.
+Master: El numero es alto. Intentalo de nuevo.
+Bot: Dejame pensar...
+Bot: Creo que es el 863.
+Master: Lo has adiviniado en 8 intentos, enhorabuena! 
+Bot: Soy un genio.

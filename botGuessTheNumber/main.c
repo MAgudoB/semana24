@@ -16,6 +16,7 @@ int OK = 2;
 int games=0;
 int gamesNumber;
 int success = 0;
+int fails= 0;
 char nameExecution[100];
 FILE *fptr;
 
@@ -30,14 +31,18 @@ void saveToDb(){
 	connection = sqlite3_open("results.db", &database);
 	char *msgError = 0;
 	char insertSentence [150];
-	char snum[5];
-	sprintf(snum, "%i", success);
+	char successNum[5];
+	char failNum[5];
+	sprintf(successNum, "%i", success);
+	sprintf(failNum, "%i", fails);
 	strcat (insertSentence,"insert into success VALUES ('");
 	strcat (insertSentence, nameExecution);
 	strcat (insertSentence,"',");
-	strcat (insertSentence,snum);
+	strcat (insertSentence,successNum);
+	strcat (insertSentence,",");
+	strcat (insertSentence,failNum);
 	strcat (insertSentence,")");
-	connection = sqlite3_exec(database, "create table if not exists Success (name nvarchar(50), number int)",insertedData,0,&msgError);
+	connection = sqlite3_exec(database, "create table if not exists Success (name nvarchar(50), success int, fails int)",insertedData,0,&msgError);
 
 	connection = sqlite3_exec(database, insertSentence,insertedData,0,&msgError);	
 	
@@ -45,6 +50,8 @@ void saveToDb(){
 		printf(msgError);
 		sqlite3_free(msgError);
 		scanf("%i", &gamesNumber);
+	}else{
+		insertedData();
 	}
 	sqlite3_close(database);
 }
@@ -60,10 +67,12 @@ int botGuess(FILE *fptr) {
 
 void botUpdateInfo(int response, FILE *fptr){
 	if (response == LOW) {
+		fails++;
 		printf("Bot: Dejame pensar...\n");
 		fprintf(fptr, "Bot: Dejame pensar...\n"); 
 		rangeA = guessNumber;
 	} else if (response == HIGH) {
+		fails++;
 		printf("Bot: Dejame pensar...\n");
 		fprintf(fptr, "Bot: Dejame pensar...\n"); 
 		rangeB = guessNumber;
