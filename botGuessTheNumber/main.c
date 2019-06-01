@@ -33,23 +33,26 @@ void saveToDb(){
 	char insertSentence [150];
 	char successNum[5];
 	char failNum[5];
+	char gamesNum[5];
 	sprintf(successNum, "%i", success);
 	sprintf(failNum, "%i", fails);
+	sprintf(gamesNum, "%i", gamesNumber);
 	strcat (insertSentence,"insert into success VALUES ('");
 	strcat (insertSentence, nameExecution);
 	strcat (insertSentence,"',");
 	strcat (insertSentence,successNum);
 	strcat (insertSentence,",");
 	strcat (insertSentence,failNum);
+	strcat (insertSentence,",");
+	strcat (insertSentence,gamesNum);
 	strcat (insertSentence,")");
-	connection = sqlite3_exec(database, "create table if not exists Success (name nvarchar(50), success int, fails int)",insertedData,0,&msgError);
+	connection = sqlite3_exec(database, "create table if not exists Success (name nvarchar(50), success int, fails int, games int)",insertedData,0,&msgError);
 
 	connection = sqlite3_exec(database, insertSentence,insertedData,0,&msgError);	
 	
 	if(connection != SQLITE_OK){
 		printf(msgError);
 		sqlite3_free(msgError);
-		scanf("%i", &gamesNumber);
 	}else{
 		insertedData();
 	}
