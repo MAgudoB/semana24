@@ -2,6 +2,7 @@ QT += charts qml quick
 
 SOURCES += \
     main.cpp \
+    queryrow.cpp \
     sqlite/sqlite3.c
 
 RESOURCES += \

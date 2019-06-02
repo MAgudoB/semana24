@@ -35,33 +35,37 @@
 #include <QtCore/QDir>
 #include <QtQml/QQmlEngine>
 #include <sqlite/sqlite3.h>
-#include <queryrow.h>
+#include "queryrow.h"
 #include <iostream>
 #include <list>
+#include <vector>
 
-std::list<queryRow *> dbRows;
+using namespace std;
+
+vector<queryRow*> dbRows;
 
 static int callback(void *data, int argc, char **argv, char **azColName){
     int i;
     fprintf(stderr, "%s: ", (const char*)data);
     printf("%i",argc);
 
-    for(i = 0; i<argc; i++){
-      printf("%s = %s\n", azColName[i], argv[i] ? argv[i] : "NULL");
-    }
-    queryRow row;
-    char *ptr;
-    row.setName("patata");
-    row.setSuccess(10);
-    row.setFails(0);
-    row.setGames(10);
-    dbRows.push_back(&row);
+    queryRow* row = new queryRow(argv[0],atoi(argv[1]),atoi(argv[2]),atoi(argv[3]));
+    dbRows.push_back(row);
+
+    /*for(i = 0; i<argc; i++){
+
+      //printf("%s = %s\n", azColName[i], argv[i] ? argv[i] : "NULL");
+        queryRow* row = new queryRow("test",10,10,20);
+        dbRows.push_back(row);
+    }*/
+
     printf("\n");
     return 0;
 }
 
 Q_DECL_EXPORT int main(int argc, char *argv[])
 {
+    dbRows = vector<queryRow*>();
     char *msgError = 0;
     int connection;
     sqlite3 *database;
@@ -99,9 +103,20 @@ Q_DECL_EXPORT int main(int argc, char *argv[])
     QObject::connect(viewer.engine(), &QQmlEngine::quit, &viewer, &QWindow::close);
 
     viewer.setTitle(QStringLiteral("Bot stadistics"));
-    for (int i = 0;dbRows.size();i++) {
+    /*for (int i = 0;dbRows.size();i++) {
         viewer.engine()->rootContext()->setContextProperty("msg", dbRows.front());
         dbRows.pop_front();
+    }*/
+    /*for (int i = 0;dbRows.size();i++) {
+        viewer.engine()->rootContext()->setContextProperty("msg", dbRows.front());
+        dbRows.pop_front();
+    }*/
+    /*for (queryRow &row : dbRows){
+        viewer.engine()->rootContext()->setContextProperty("msg", &row);
+    }*/
+    for (int i = 0; i < dbRows.size();i++) {
+        queryRow* dbRowsFront = dbRows[i];
+        viewer.engine()->rootContext()->setContextProperty("msg", dbRowsFront);
     }
     viewer.setSource(QUrl("qrc:/qml/qmlchart/main.qml"));
     viewer.setResizeMode(QQuickView::SizeRootObjectToView);

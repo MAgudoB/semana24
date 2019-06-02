@@ -5,51 +5,28 @@
 class queryRow : public QObject {
     Q_OBJECT
     Q_PROPERTY(QString row_Name READ getName WRITE setName NOTIFY rowChanged)
-    Q_PROPERTY(int success READ getSuccess WRITE setSuccess NOTIFY rowChanged)
-    Q_PROPERTY(int games READ getGames WRITE setGames NOTIFY rowChanged)
-    Q_PROPERTY(int fails READ getFails WRITE setFails NOTIFY rowChanged)
+    Q_PROPERTY(qint32 success READ getSuccess WRITE setSuccess NOTIFY rowChanged)
+    Q_PROPERTY(qint32 games READ getGames WRITE setGames NOTIFY rowChanged)
+    Q_PROPERTY(qint32 fails READ getFails WRITE setFails NOTIFY rowChanged)
 public:
-    void setName(const QString &a){
-        row_name = a;
-    }
-
-    QString getName() const {
-        return row_name;
-    }
-
-    void setSuccess(const int &s){
-        success = s;
-    }
-
-    int getSuccess() const{
-        return success;
-    }
-
-    void setGames(const int &g){
-        success = g;
-    }
-
-    int getGames() const{
-        return success;
-    }
-
-    void setFails(const int &f){
-        success = f;
-    }
-
-    int getFails() const{
-        return success;
-    }
+    queryRow(QString, qint32,qint32,qint32);
+    void setName(const QString &a);
+    QString getName();
+    void setSuccess(const qint32 &s);
+    qint32 getSuccess();
+    void setGames(const qint32 &g);
+    qint32 getGames();
+    void setFails(const qint32 &f);
+    qint32 getFails();
 
 signals:
     void rowChanged();
 
 private:
     QString row_name;
-    int success;
-    int fails;
-    int games;
-
+    qint32 success;
+    qint32 fails;
+    qint32 games;
 };
 
 
