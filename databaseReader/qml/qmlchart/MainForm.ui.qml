@@ -34,7 +34,6 @@ Item {
     height: 400
     property bool sourceLoaded: false
     property alias currentIndex: root.currentIndex
-    property alias info: infoText
 
     ListView {
         id: root
@@ -47,18 +46,7 @@ Item {
         boundsBehavior: Flickable.StopAtBounds
 
         model: ListModel {
-            ListElement {component: "View1.qml"}
-            ListElement {component: "View2.qml"}
-            ListElement {component: "View3.qml"}
-            ListElement {component: "View4.qml"}
-            ListElement {component: "View5.qml"}
             ListElement {component: "View6.qml"}
-            ListElement {component: "View7.qml"}
-            ListElement {component: "View8.qml"}
-            ListElement {component: "View9.qml"}
-            ListElement {component: "View10.qml"}
-            ListElement {component: "View11.qml"}
-            ListElement {component: "View12.qml"}
         }
 
         delegate: Loader {
@@ -69,19 +57,6 @@ Item {
             asynchronous: true
 
             onLoaded: sourceLoaded = true
-        }
-    }
-
-    Rectangle {
-        id: infoText
-        anchors.centerIn: parent
-        width: parent.width
-        height: 40
-        color: "black"
-        Text {
-            color: "white"
-            anchors.centerIn: parent
-            text: "You can navigate between views using swipe or arrow keys"
         }
     }
 }

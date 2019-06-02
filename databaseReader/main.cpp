@@ -39,6 +39,9 @@
 #include <iostream>
 #include <list>
 #include <vector>
+#include <QtCharts>
+#include <QQuickItem>
+#include <QtCharts/QBarCategoryAxis>
 
 using namespace std;
 
@@ -49,15 +52,8 @@ static int callback(void *data, int argc, char **argv, char **azColName){
     fprintf(stderr, "%s: ", (const char*)data);
     printf("%i",argc);
 
-    queryRow* row = new queryRow(argv[0],atoi(argv[1]),atoi(argv[2]),atoi(argv[3]));
+    queryRow* row = new queryRow(argv[0],atoi(argv[1]),atoi(argv[3]),atoi(argv[2]));
     dbRows.push_back(row);
-
-    /*for(i = 0; i<argc; i++){
-
-      //printf("%s = %s\n", azColName[i], argv[i] ? argv[i] : "NULL");
-        queryRow* row = new queryRow("test",10,10,20);
-        dbRows.push_back(row);
-    }*/
 
     printf("\n");
     return 0;
@@ -90,37 +86,40 @@ Q_DECL_EXPORT int main(int argc, char *argv[])
     // Qt Charts uses Qt Graphics View Framework for drawing, therefore QApplication must be used.
     QApplication app(argc, argv);
 
-    QQuickView viewer;
-    // The following are needed to make examples run without having to install the module
-    // in desktop environments.
-#ifdef Q_OS_WIN
-    QString extraImportPath(QStringLiteral("%1/../../../../%2"));
-#else
-    QString extraImportPath(QStringLiteral("%1/../../../%2"));
-#endif
-    viewer.engine()->addImportPath(extraImportPath.arg(QGuiApplication::applicationDirPath(),
-                                      QString::fromLatin1("qml")));
-    QObject::connect(viewer.engine(), &QQmlEngine::quit, &viewer, &QWindow::close);
-
-    viewer.setTitle(QStringLiteral("Bot stadistics"));
-    /*for (int i = 0;dbRows.size();i++) {
-        viewer.engine()->rootContext()->setContextProperty("msg", dbRows.front());
-        dbRows.pop_front();
-    }*/
-    /*for (int i = 0;dbRows.size();i++) {
-        viewer.engine()->rootContext()->setContextProperty("msg", dbRows.front());
-        dbRows.pop_front();
-    }*/
-    /*for (queryRow &row : dbRows){
-        viewer.engine()->rootContext()->setContextProperty("msg", &row);
-    }*/
+    QBarSeries *series = new QBarSeries();
     for (int i = 0; i < dbRows.size();i++) {
-        queryRow* dbRowsFront = dbRows[i];
-        viewer.engine()->rootContext()->setContextProperty("msg", dbRowsFront);
+       QBarSet *newSet = new QBarSet(dbRows[i]->getName());
+       *newSet << dbRows[i]->getGames() << dbRows[i]->getFails();
+       series->append(newSet);
     }
-    viewer.setSource(QUrl("qrc:/qml/qmlchart/main.qml"));
-    viewer.setResizeMode(QQuickView::SizeRootObjectToView);
-    viewer.show();
 
+
+    QChart *chart = new QChart();
+    chart->addSeries(series);
+    chart->setTitle("Lazy chart");
+    chart->setAnimationOptions(QChart::SeriesAnimations);
+
+    QStringList categories;
+    categories << "Games" << "Tries";
+    QBarCategoryAxis *axisX = new QBarCategoryAxis();
+    axisX->append(categories);
+    chart->addAxis(axisX, Qt::AlignBottom);
+    series->attachAxis(axisX);
+
+    QValueAxis *axisY = new QValueAxis();
+    axisY->setRange(0,1000);
+    chart->addAxis(axisY, Qt::AlignLeft);
+    series->attachAxis(axisY);
+
+    chart->legend()->setVisible(true);
+    chart->legend()->setAlignment(Qt::AlignBottom);
+
+    QChartView *chartView = new QChartView(chart);
+    chartView->setRenderHint(QPainter::Antialiasing);
+
+    QMainWindow window;
+    window.setCentralWidget(chartView);
+    window.resize(420, 300);
+    window.show();
     return app.exec();
 }
